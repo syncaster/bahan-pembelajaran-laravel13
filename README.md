@@ -64,14 +64,27 @@ Pada minggu keempat, peserta akan mendalami Laravel Blade Components dan Tailwin
 
 ---
 
+### **Minggu 5: View Data - Props, String Limiter & Display Data** 📊
+
+**Folder**: `05. view data/`
+
+Pada minggu kelima, peserta akan mempelajari cara menampilkan data ke view dengan menggunakan Blade Components Props, String Limiter, dan teknik menampilkan daftar serta detail postingan secara dinamis.
+
+**Topik**: Component Props (`@props`) · String Limiter · Blade Loops · Dynamic Routing · Array Helpers
+
+👉 **[Buka Materi Minggu 5 →](05.%20view%20data/README.md)**
+
+---
+
 ## 📂 Navigasi Cepat
 
-| Minggu | Topik            | Folder             | README                               |
-| ------ | ---------------- | ------------------ | ------------------------------------ |
-| 1      | Introduction     | `01.introduction/` | [📄 Buka](01.introduction/README.md) |
-| 2      | Basic            | `02.basic/`        | [📄 Buka](02.basic/README.md)        |
-| 3      | View             | `03. view/`        | [📄 Buka](03.%20view/README.md)      |
-| 4      | Blade Components | `04. blade/`       | [📄 Buka](04.%20blade/README.md)     |
+| Minggu | Topik            | Folder             | README                                 |
+| ------ | ---------------- | ------------------ | -------------------------------------- |
+| 1      | Introduction     | `01.introduction/` | [📄 Buka](01.introduction/README.md)   |
+| 2      | Basic            | `02.basic/`        | [📄 Buka](02.basic/README.md)          |
+| 3      | View             | `03. view/`        | [📄 Buka](03.%20view/README.md)        |
+| 4      | Blade Components | `04. blade/`       | [📄 Buka](04.%20blade/README.md)       |
+| 5      | View Data        | `05. view data/`   | [📄 Buka](05.%20view%20data/README.md) |
 
 ---
 
