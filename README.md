@@ -12,79 +12,16 @@ Materi pembelajaran untuk mata kuliah **Pemrograman Web Lanjut** menggunakan Fra
 
 ---
 
-## 📖 Daftar Minggu Pertemuan
+## 📖 Ringkasan Materi
 
-Project ini dibagi menjadi beberapa minggu pembelajaran dengan progresivitas bertahap. **Setiap minggu memiliki folder terpisah dengan dokumentasi lengkap**:
-
-### **Minggu 1: Introduction - Pengenalan Laravel** 📖
-
-**Folder**: `01.introduction/`
-
-Pada minggu pertama, peserta akan mempelajari dasar-dasar Framework Laravel dan setup project.
-
-**Topik**: Pengenalan Laravel 13 · Instalasi · Struktur Direktori · Routing Dasar
-
-👉 **[Buka Materi Minggu 1 →](01.introduction/README.md)**
-
----
-
-### **Minggu 2: Basic - Routing, Controller, dan CSS** 🎯
-
-**Folder**: `02.basic/`
-
-Pada minggu kedua, peserta akan mendalami routing lanjut, controller, dan styling.
-
-**Topik**: Routing Lanjut · Controllers · Blade Views · CSS Styling
-
-👉 **[Buka Materi Minggu 2 →](02.basic/README.md)**
-
----
-
-### **Minggu 3: View - Views & Vite Asset Compilation** 🚀
-
-**Folder**: `03. view/`
-
-Pada minggu ketiga, peserta akan mempelajari pengorganisasian views dan Vite untuk asset compilation.
-
-**Topik**: Advanced Views · Blade Inheritance · Asset Compilation · Hot Module Replacement (HMR)
-
-👉 **[Buka Materi Minggu 3 →](03.%20view/README.md)**
-
----
-
-### **Minggu 4: Blade Components & TailwindCSS** ✨
-
-**Folder**: `04. blade/`
-
-Pada minggu keempat, peserta akan mendalami Laravel Blade Components dan TailwindCSS.
-
-**Topik**: Blade Components · Slots & Props · Responsive Design · TailwindCSS · Accessibility
-
-👉 **[Buka Materi Minggu 4 →](04.%20blade/README.md)**
-
----
-
-### **Minggu 5: View Data - Props, String Limiter & Display Data** 📊
-
-**Folder**: `05. view data/`
-
-Pada minggu kelima, peserta akan mempelajari cara menampilkan data ke view dengan menggunakan Blade Components Props, String Limiter, dan teknik menampilkan daftar serta detail postingan secara dinamis.
-
-**Topik**: Component Props (`@props`) · String Limiter · Blade Loops · Dynamic Routing · Array Helpers
-
-👉 **[Buka Materi Minggu 5 →](05.%20view%20data/README.md)**
-
----
-
-## 📂 Navigasi Cepat
-
-| Minggu | Topik            | Folder             | README                                 |
-| ------ | ---------------- | ------------------ | -------------------------------------- |
-| 1      | Introduction     | `01.introduction/` | [📄 Buka](01.introduction/README.md)   |
-| 2      | Basic            | `02.basic/`        | [📄 Buka](02.basic/README.md)          |
-| 3      | View             | `03. view/`        | [📄 Buka](03.%20view/README.md)        |
-| 4      | Blade Components | `04. blade/`       | [📄 Buka](04.%20blade/README.md)       |
-| 5      | View Data        | `05. view data/`   | [📄 Buka](05.%20view%20data/README.md) |
+| #   | Minggu                                    | Topik                | Ringkasan                                                                 |
+| --- | ----------------------------------------- | -------------------- | ------------------------------------------------------------------------- |
+| 1   | [Introduction](01.introduction/README.md) | Pengenalan Laravel   | Instalasi Laravel 13, struktur direktori, routing dasar, blade templating |
+| 2   | [Basic](02.basic/README.md)               | Routing & Controller | Controllers, routing lanjut, blade views, CSS styling                     |
+| 3   | [View](03.%20view/README.md)              | Views & Vite         | Organisasi views, asset compilation dengan Vite, HMR                      |
+| 4   | [Blade](04.%20blade/README.md)            | Blade Components     | Blade components class, slots, props, TailwindCSS                         |
+| 5   | [View Data](05.%20view%20data/README.md)  | Props & Display Data | Component props (`@props`), string limiter, dynamic routing               |
+| 6   | [Model](06.%20model/README.md)            | Models               | Model class, named routes, `routeIs()`, arrow functions                   |
 
 ---
 
